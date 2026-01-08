@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<head>
+<title></title>
+</head>
+ <style>
+        nav {
+            background: #222;
+            padding: 10px;
+        }
+
+        nav ul {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+            display: flex;
+        }
+
+        nav ul li {
+            margin-right: 20px;
+        }
+
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+            font-size: 18px;
+        }
+
+        nav ul li a:hover {
+            color: #00aaff;
+        }
+    </style>
+</head>
+<body>
+
+<nav>
+    <ul>
+        <li><a href="index.html">Home</a></li>
+<a href="file:///C:/Users/Admin/Desktop/sujal%20morale/sambhaji,html/about%20page.html" alt="about">
+        <li><a href="about.html">About</a></li>
+        <li><a href="contact.html">Contact</a></li>
+    </ul>
+</nav>
+<body>
+<center><h1>TATA MOTOR SHOOWROOM</h1></center>
+<img src="C:\Users\Admin\OneDrive\Pictures\Camera Roll\tatabike.jpg"alt="tata motor">
+<a href="file:///C:/Users/Admin/Desktop/sujal%20morale/sambhaji,html/about%20page.html" alt="about">
+<a href ="file:///C:/Users/Admin/Desktop/sujal%20morale/sambhaji,html/sujalcontactpage.html" alt="contact">
+   
+<center><h2> Key Features in Showrooms</h2></center>
+<p>Digital Experience: Interactive screens, digital brochures, and 3D configurators allow exploring customization and features.</p>
+
+<p><b>Model Zones: Dedicated sections for new models like the sporty Curvv or premium Safari/Harrier, showcasing design and tech.</p></b>
+<p><b>.Technology Immersion: Features like TheatrePRO (dual screens, premium JBL audio) in high-end models are often showcased.</p></b>
+<p><b>Safety Focus: Displays highlight safety ratings (5-star Global NCAP) and features like 6 airbags, ESP, ISOFIX.</p></b>
+<p><b>EV & ICE Integration: Separate displays for the growing electric vehicle range (Nexon.ev, Punch.ev) alongside traditional petrol/diesel cars.</p></b>
+<p><b>Personalization: Options to explore genuine accessories and understand vehicle specs deeply.</p></b>
+<p><b>Comfort & Design: Focus on ergonomic seating (powered seats, memory function), ambient lighting, and innovative designs (like Sierra's coupé-SUV blend).</p> </b>
+</html>
+</body>
